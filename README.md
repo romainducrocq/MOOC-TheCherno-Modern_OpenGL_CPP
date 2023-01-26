@@ -1,2 +1,3 @@
+- OpenGL docs: https://docs.gl/
 - GLFW: https://www.glfw.org/download.html
 - GLEW: https://glew.sourceforge.net/index.html
