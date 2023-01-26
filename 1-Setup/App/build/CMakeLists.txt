@@ -10,9 +10,6 @@ set(CMAKE_CXX_FLAGS "-Wall -Werror -Wextra -std=c++17")
 set(CMAKE_CXX_FLAGS_DEBUG "-ggdb3 -O0")
 set(CMAKE_CXX_FLAGS_RELEASE "-O3 -DNDEBUG")
 
-find_package(glfw3 3.3 REQUIRED)
-find_package(OpenGL REQUIRED)
-
 set(SOURCE_DIR "${PROJECT_SOURCE_DIR}/../src/")
 set(HEADER_DIR "${PROJECT_SOURCE_DIR}/../include/")
 set(EXEC_DIR "${PROJECT_SOURCE_DIR}/../bin/apps/")
