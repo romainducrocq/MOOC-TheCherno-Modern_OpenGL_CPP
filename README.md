@@ -10,9 +10,9 @@
 
 ### Syllabus
 
-- 1 Welcome to OpenGL
-- 2 Setting up OpenGL and Creating a Window in C++
-- 3 Using Modern OpenGL in C++
-- 4 Vertex Buffers and Drawing a Triangle in OpenGL
-- 5 Vertex Attributes and Layouts in OpenGL
+- #0: Welcome to OpenGL
+- #1: Setting up OpenGL and Creating a Window in C++
+- #2: Using Modern OpenGL in C++
+- #3: Vertex Buffers and Drawing a Triangle in OpenGL
+- #4: Vertex Attributes and Layouts in OpenGL
 
