@@ -1,1 +1,2 @@
-- Installing OpenGL: https://www.prinmath.com/csci5229/misc/install.html
+- GLFW: https://www.glfw.org/download.html
+- GLEW: https://glew.sourceforge.net/index.html
