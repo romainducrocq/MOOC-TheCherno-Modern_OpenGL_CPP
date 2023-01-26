@@ -14,7 +14,7 @@ set(CMAKE_CXX_FLAGS_RELEASE "-O3 -DNDEBUG")
 set(SOURCE_DIR "${PROJECT_SOURCE_DIR}/../src/")
 set(HEADER_DIR "${PROJECT_SOURCE_DIR}/../include/")
 set(EXEC_DIR "${PROJECT_SOURCE_DIR}/../bin/apps/")
-set(LINK_LIB "-lglfw -lGLU -lGL -lm")
+set(LINK_LIB "")
 
 file(GLOB_RECURSE SOURCE_FILES "${SOURCE_DIR}/*.cpp")
 file(GLOB_RECURSE HEADER_FILES "${HEADER_DIR}/*.hpp")
